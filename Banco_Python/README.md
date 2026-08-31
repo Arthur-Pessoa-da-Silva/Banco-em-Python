@@ -1,8 +1,8 @@
-# 🏦 Banco em Python
+# Banco em Python
 
 Projeto de um sistema bancário desenvolvido em Python para praticar conceitos de programação, funções, estruturas de controle, tratamento de erros, módulos e armazenamento de dados.
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 * ✅ Cadastro de usuário
 * ✅ Sistema de senha
@@ -18,14 +18,14 @@ Projeto de um sistema bancário desenvolvido em Python para praticar conceitos d
 * ✅ Salvamento dos dados em arquivo JSON
 * ✅ Organização do projeto em diferentes arquivos Python
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
 * Python
 * JSON
 * Biblioteca `datetime`
 * Biblioteca `os`
 
-## 📂 Estrutura do projeto
+## Estrutura do projeto
 
 ```text
 banco-python/
@@ -38,7 +38,7 @@ banco-python/
 └── README.md      # Documentação do projeto
 ```
 
-## ▶️ Como executar
+## Como executar
 
 1. Tenha o Python instalado no computador.
 2. Baixe ou clone este repositório.
@@ -52,7 +52,7 @@ python main.py
 5. Na primeira execução, faça o cadastro.
 6. Digite sua senha para acessar o sistema.
 
-## 💡 O que aprendi
+## O que aprendi
 
 Durante o desenvolvimento deste projeto, pratiquei:
 
@@ -68,11 +68,11 @@ Durante o desenvolvimento deste projeto, pratiquei:
 * Importação de módulos
 * Organização de um projeto Python em diferentes arquivos
 
-## 📌 Objetivo
+## Objetivo
 
 Este projeto foi desenvolvido como parte dos meus estudos em Python, com o objetivo de transformar conhecimentos básicos da linguagem em uma aplicação prática e funcional.
 
-## 👨‍💻 Autor
+## Autor
 
 Arthur Pessoa da Silva
 
