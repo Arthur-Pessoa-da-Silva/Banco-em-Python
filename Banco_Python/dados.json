@@ -1,0 +1,9 @@
+{
+    "nome": "Arthur",
+    "senha": "123",
+    "saldo": 100.0,
+    "historico": [
+        "Dep\u00f3sito: R$ 100.00 | 31/08/2026 18:51"
+    ],
+    "quantidade_saques": 0
+}
